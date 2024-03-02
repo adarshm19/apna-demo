@@ -1,4 +1,4 @@
 # apna-demo
 practice repo
 <br/>
-Adarsh Mishra
+Adarsh Mishra(NIT Patna)
